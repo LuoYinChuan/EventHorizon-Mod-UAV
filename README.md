@@ -9,7 +9,7 @@ EventHorizon is a small and interesting flying shooting game
 This module talks about the conversion of the original spacecraft into UAV components, so that players can be more interested in playing the game and enhance the fun of the game. And added some components that didn't exist before
 </br>
 # What can I do？  
-You can make new components and upload them here to develop the module together
+You can develop this module with us or provide some interesting suggestions
 </br>
 # Submission specification：
   * The chartlet size should not exceed 600 * 600 (PX)
