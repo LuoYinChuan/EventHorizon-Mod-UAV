@@ -2,7 +2,7 @@
   "ItemType": 100,
   "DefaultWeightPerCell": 20.0,
   "MinimumWeightPerCell": 10.0,
-  "ArmorPointsPerCell": 1,
+  "ArmorPointsPerCell": 1.0,
   "ArmorRepairCooldown": 1.0,
   "BaseEnergyPoints": 1.0,
   "EnergyRechargeCooldown": 1.0,

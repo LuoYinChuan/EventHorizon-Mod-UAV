@@ -1,3 +1,6 @@
 {
-  "ItemType": 102
+  "ItemType": 102,
+  "DatabaseVersion": 1,
+  "ModName": "UAV",
+  "UnloadOriginalDatabase": true
 }
