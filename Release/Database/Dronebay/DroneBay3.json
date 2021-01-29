@@ -7,7 +7,7 @@
   "DamageMultiplier": 1.0,
   "DefenseMultiplier": 1.0,
   "SpeedMultiplier": 1.0,
-  "Capacity": 3,
+  "Capacity": 8,
   "ActivationType": 2,
   "LaunchSound": "launch_08",
   "LaunchEffectPrefab": "OrbAdditive",
