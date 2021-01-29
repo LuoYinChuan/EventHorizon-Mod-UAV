@@ -11,6 +11,10 @@ This module talks about the conversion of the original spacecraft into UAV compo
 # What can I do？  
 You can develop this module with us or provide some interesting suggestions
 </br>
+# How should I make it？
+If you are familiar with the operation, you can make it now
+If you are doing it for the first time, you can click <a href="https://github.com/LuoYinChuan/EventHorizon-Mod-UAV/wiki/Put-the-editor-into-the-database">here</a> to start learning
+</br>
 # Submission specification：
   * The chartlet size should not exceed 600 * 600 (PX)
   * Component ID should not be repeated
