@@ -2,6 +2,6 @@
   "ItemType": 11,
   "Id": 77,
   "Type": 1,
-  "EnergyRechargeRate": 2.5,
+  "EnergyRechargeRate": 5.0,
   "Weight": 50.0
 }
