@@ -1,0 +1,534 @@
+奶茶超人整理
+
+星际争霸单位语音“中英文”完全版（之所以要加引号，因为有些不是英语……） 
+
+Terran 
+
+Marine 
+
+（出场00） You want a piece of me, boy?想要我的一部分吗，小子？ 
+（闲聊00） We go move! 我们走吧！ 
+（闲聊01） Are you gonna give me orders? 你是不是想给我发命令？ 
+（闲聊02） Oh my god! He’s whacked! 我的天，他困了！ 
+（闲聊03） I vote we frag this commander. 我建议我们干掉这个指挥官。 
+（闲聊04） How do I get out of this chicken （BEEP） outfit?! 我怎么才能从这 
+个垃圾盔甲中出来？ 
+（闲聊05） You want a piece of me, boy? 想要我的一部分吗，小子？ 
+（闲聊06） If it weren’t for these damned neural implants you’d be a 
+smoldering crater by now! 如果不是因为这个混账的心灵灌输，我早把你变成弹坑 
+了。 
+（Sti00） Ahh...That’s the stuff! 啊，就是它 
+（Sti01） Ahh...Yea! 啊，耶！ 
+（选择00） Commander. 老大！ 
+（选择01） Standin’ by. 待命中 
+（选择02） Checked up and good to go. 检查完毕，准备动身 
+（选择03） Give me something to shoot. 给我一个活靶子 
+（行动00） Go! Go! Go! 
+（行动01） Let’s move! 大家前进吧 
+（行动02） Outstanding! 非常明智！ 
+（行动03） Rock ’n roll! 一起摇滚吧！ 
+
+Firebat 
+
+（出场00） Need a light? 需要打火机吗？ 
+（闲聊00） Is something burning? 有烧着了的东西吗？ 
+（闲聊01） Haha, that’s what I thought. 哈哈，正如我想。 
+（闲聊02） I love the smell of napalm. 我喜欢汽油的味道！ 
+（闲聊03） Nothing like a good smoke! 没有比抽烟更好的事了。 
+（闲聊04） Are you trying to get invited to my next barbecue? 你是否正在盼望 
+我请你去吃烤肉？ 
+（闲聊05） Got any questions about propane? 对丙烷有什么不懂的吗？ 
+（闲聊06） Or, propane accessories? 噢，喷火的工具！ 
+（选择00） Fire it up! 把它点着！ 
+（选择01） 行动? 是？ 
+（选择02） You got my attention. 你已经引起我注意了 
+（选择03） Wanna turn up the heat? 想把温度升高？ 
+（行动00） Naturally. 很自然 
+（行动01） Slammin! 打击！ 
+（行动02） You’ve got it. 你已经得到它了 
+（行动03） Let’s burn. 让我们燃烧吧 
+
+
+Ghost 
+
+（出场00） Somebody called for an exterminator? 有人正在找害虫终结者吗？ 
+（闲聊00） You called down the thunder. 你把雷电招下来了 
+（闲聊01） Now reap the whirlwind. 现在我们来获得一点旋风！ 
+（闲聊02） Keep it up! I dare ya. 准备好，我要向你挑战！ 
+（闲聊03） I’m about to overload my aggression inhibitors. 我可能要多打点镇 
+定剂 
+（选择00） Ghost reporting. 特种兵报告 
+（选择01） I’m here. 我在这里 
+（选择02） Finally! 终于！ 
+（选择03） Call the shot. 下命令射击吧 
+（行动00） I hear that. 我听到它了 
+（行动01） I’m gone. 我已经出发了 
+（行动02） Never know what hit em. 从来就不知道要有多少进攻 
+（行动03） I’m all over it. 我已经超过它了 
+
+
+Vulture 
+
+（出场00） All right, bring it on! 好啦，把它放下吧 
+（闲聊00） Something you wanted? 你想要什么吗？ 
+（闲聊01） I don’t have time to f（BEEP）around! 我没时间瞎弄！ 
+（闲聊02） You keep pushing it boy. 小子，你一直在推它 
+（闲聊03） And I’ll scrap you along with the aliens! 我想跟异形们一起把你撕 
+碎！ 
+（选择00） What do YOU want? 你想干嘛？ 
+（选择01） Yeah? 是！ 
+（选择02） I read ya, SIR. 我知道啦，老大! 
+（选择03） Somethin’ on your mind? 你想什么哪？ 
+（行动00） Yeah, I’m going. 是，进发中！ 
+（行动01） I dig. 我想挖洞 
+（行动02） No problem! 没问题 
+（行动03） Oh, is that it?哦，是这个吗？ 
+
+
+Goliath 
+
+（出场00） Goliath online. Goliath 准备完毕 
+（闲聊00） MilSpec ED-209 online. 军用 ED-209 准备完毕 
+（闲聊01） Checklist protocol initiated. 开始协议 
+（闲聊02） Primary ? level one diagnostic... 初级？诊断为一级 
+（闲聊03） USDA Selected. USDA 被选择 
+（闲聊04） FDIC approved. FDIC 通过核准 
+（闲聊05） Checklist Completed. SOB. 名单准备完毕 
+（选择00） Go ahead Tac-Com. 正在前进，指挥部 
+（选择01） Com-link online. 指挥部完成连接 
+（选择02） Channel open. 打开这个频道 
+（选择03） Systems functional. 系统功能 
+（行动00） Acknowledged HQ. 明白，指挥部 
+（行动01） Nav-com locked. 锁定海军指挥部 
+（行动02） Confirmed. 确认 
+（行动03） Target designated. 选定目标 
+
+
+Siege Tank 
+
+（出场00） Ready to roll out! 准备出场 
+（闲聊01） I’m about to drop the hammer! 我可能要扔锤子了 
+（闲聊02） And dispense some indiscriminate justice! 然后来一次审判 
+（闲聊03） What is your major malfunction? 你的主要故障是什么？ 
+（tra00） （切换为坦克） 
+（tra01） （切换为座地炮） 
+（选择00） 行动 sir! 是，长官！ 
+（选择01） Destination? 目的地是哪？ 
+（选择02） Identify target! 目标确定！ 
+（选择03） Orders sir! 命令，老大？ 
+（行动00） Move it! 前进 
+（行动01） Proceedin’. 有进展了 
+（行动02） Delighted to, sir! 我很高兴，老大 
+（行动03） Absolutely! 绝对！ 
+
+
+SCV 
+
+（出场00） SCV, good to go, sir. SCV可以开工了 
+（Err00） I can’t build it, something’s in the way. 我没法在这建，有东西挡 
+道 
+（Err01） I can’t build there. 我没法在这建 
+（Min00） （采矿1） 
+（Min01） （采矿2） 
+（闲聊00） Come again, Captain? 队长，再来一遍！ 
+（闲聊01） I’m not readin’ you clearly. 我不能听清楚你说什么。 
+（闲聊02） You ain’t from around here, are you? 你没必要在这逛游，不是吗？ 
+（闲聊03） I can’t believe they put me in one of these things! 我没法相信他 
+们把我放进了这么一堆东西里 
+（闲聊04） And now I go put up with this too? 我现在是否要把它们收拾起来？ 
+（闲聊05） I told em I was claustrophobic, I go get ou here! 我告诉他们我有 
+幽闭症，我必须出去！ 
+（闲聊06） I’m locked in here tighter than a frog’s butt in a watermelon 
+seed fight. 我在这里比青蛙在西瓜子里还要挤 
+（Tra00） ? 
+
+
+Dropship 
+
+（出场00） Can I take your order? 我能得到你的命令吗？ 
+（闲聊00） When removing your overhead luggage, please be careful. 拿你头上 
+的行李时请注意 
+（闲聊01） In case of a water landing, you may be used as a flotation 
+device. 由于要在水上降落，你可能要被当作漂浮装置 
+（闲聊02） To hurl chunks, please use the vomit bag in front of you. 为了减 
+重，请服下前面的催吐剂，然后吐到外面！ 
+（闲聊03） Keep your arms and legs inside until this ride comes to a full 
+and complete stop. 停稳之前请不要把胳膊或腿伸到外面去。 
+（选择00） Go ahead, HQ. 正在前进，司令部 
+（选择01） I’m listenin’. 我正在听 
+（选择02） Destination? 目的地？ 
+（选择03） Input coordinates. 输入坐标 
+（行动00） In the pipe, five by five. 在机舱里五人一组 
+（行动01） Hang on, we’re in for some chop. 把稳，前方有气流！ 
+（行动02） In transit, HQ. 正在运输，司令部。 
+（行动03） Buckle up! 系上安全带 
+（行动04） Strap yourselves in boys! 把你们绑紧，小子们 
+（行动05） I copy that. 收到！ 
+
+
+Wraith 
+
+（出场00） Wraith awaiting launch orders. 幽灵战机等待起飞 
+（闲聊00） Last transmission breakin’ up...come back... 上次起飞没成功，再 
+来一遍 
+（闲聊01） I’m just curious...why am I so good? 我只是好奇我为什么这么棒？ 
+（闲聊02） I go get me one of these. 我必须得到其中之一 
+（闲聊03） You know who the best starfighter in the fleet is? 你知道舰队王牌 
+飞行员是谁吧？ 
+（闲聊04） Yours truly. 的确是你的 
+（闲聊05） Everybody go die sometime, Red. 每个人早晚得死，是吧？ 
+（闲聊06） I am the invincible, that’s right. 我是无敌的，太对了 
+（选择00） Go ahead commander. 正在前进，总部 
+（选择01） Transmit coordinates. 传给我坐标 
+（选择02） Standin’ by. 待命 
+（选择03） Reporting in. 报告 
+（行动00） Coordinates received. 收到坐标 
+（行动01） Ack formation. 编队打击！ 
+（行动02） Roger. 收到！ 
+（行动03） Vector locked-in. 锁定无线电信号 
+
+
+Battlecruiser 
+
+（出场00） Battlecruiser operational. 大和舰准备完毕 
+（闲聊00） Identify yourself! 认识你自己！ 
+（闲聊01） Shields up! Weapons online! 装甲、武器，准备好！ 
+（闲聊02） Not equipped with shields? well then buckle up! 没有盔甲？那好， 
+系上安全带 
+（闲聊03） We are getting WAY behind schedule. 我们的进度拉得太远了 
+（闲聊04） I really have to go...number one. 我的确得争第一 
+（选择00） Battlecruiser reporting. 大和舰报告 
+（选择01） Receiving transmission. 收到！ 
+（选择02） Good day, commander. 你好，指挥官！ 
+（选择03） Hailing frequencies open. 随时敬礼 
+（Yam01） （大和炮1） 
+（Yam02） （大和炮2） 
+（行动00） Make it happen. 使它发生 
+（行动01） Set a course. 定一个路线 
+（行动02） Take it slow. 慢点 
+（行动03） Engage! 明白！ 
+
+
+Science Vessel 
+
+（出场00） Explorer reporting. 探险船报告 
+（闲聊00） I like the cut of your jib! 我喜欢你胳膊上的伤口 
+（闲聊01） E=MC...d’oh let me get my note. E=MC…？哦，我得准备个笔记本 
+（闲聊02） Ah, fusion, eh? I’ll have to remember that. 啊，融化，嗯？我得记 
+下 
+（闲聊03） Eck, who set all these lab monkeys free? 谁把实验室里的猴子放出来 
+的？ 
+（闲聊04） I think we may have a gas leak! 我想我们可能漏气了！ 
+（闲聊05） Do any of you fools know how to shut off this infernal 
+contraption? 你们这些笨蛋知道怎么把这个垃圾机器关掉吗？ 
+（闲聊06） Ah...the ship.... out of danger? 啊，脱离危险了 
+（选择00） Ah, greetings command! 啊，老大好 
+（选择01） Transmit orders. 发射命令！ 
+（选择02） Receiving headquarters! 收到，总部！ 
+（选择03） We have you on visual. 我们得让你现形 
+（行动00） Let’s roll! 大家摇滚吧！ 
+（行动01） Excellent! 非常棒！ 
+（行动02） Commencing! 开始吧。 
+（行动03） Affirmative, sir. 同意，老大. 
+
+
+Medic 
+
+（出场00） Prepped and ready! 准备完毕 
+（闲聊00） I’ve already checked you out commander. 我已经把你查出来了，指挥 
+官 
+（闲聊01） You want another physical? 你想要另一个身体？ 
+（闲聊02） Turn your head an cough. 咳一下 
+（闲聊03） Ready for your sponge bath? 准备好纱布浴了吗？ 
+（闲聊04） His EKG is flatlining! Get me a defib stat! 他的心跳很弱，给我起 
+搏器！ 
+（闲聊05） Clear! （bzzz）明白 
+（闲聊06） He’s dead, Jim. 吉姆，他死了！ 
+（选择00） Need medical attention? 需要医护吗？ 
+（选择01） Did someone page me? 有人叫我吗？ 
+（选择02） State the nature of your medical emergency! 陈述一下你的紧急救护 
+方法 （这句好难，我学了那么长时间还是不会……）
+（选择03） Where does it hurt? 哪疼？ 
+（行动00） Right away! 马上！ 
+（行动01） Stat! 立刻！ 
+（行动02） I’m on the job! 我在工作！ 
+（行动03） On my way. 在路上 
+
+
+
+Valkyrie 
+
+（出场00） Valkyrie preed. Valkyrie 准备好了 
+（闲聊00） This is very interesting...but stupid. 这很好玩，就是傻了点 
+（闲聊01） I have ways of blowing things up. 我有把东西弄炸的方法 
+（闲聊02） You’re being very naughty. 你越来越淘气了 
+（闲聊03） Who’s your mommy? 你妈妈是谁？ 
+（闲聊04） Blucher! （德语） 
+（闲聊05） （horses neighing） （马叫） 
+（选择00） Need something destroyed? 想干掉一些东西吗？ 
+（选择01） I am eager to help. 我渴望帮助 
+（选择02） Don’t keep me waiting. 别让我再等了！ 
+（选择03） Achtung! （德语）注意 
+（行动00） Of course, mein heir. 当然, mein heir.（德文） 
+（行动01） Perfect! 完美 
+（行动02） It’s showtime! 现在是“秀”时间 
+（行动03） Jawoll! （德语）好的 
+（行动04） Achtung! （德语）注意 
+
+
+
+基地 
+
+（Err00） Not enough minerals. 没有矿了 
+（Err01） Insufficient vespene gas. 瓦斯不够 
+（Err02） Additional supply depots required. 需要更多的食堂 
+（Err03） Landing sequence interrupted. 着陆顺序不对 
+（Err04） Inacceptable landing zone. 着陆点不对 
+（Err06） Not enough energy. 能量不够 
+（Upd00） Base is under ack. 基地遭受攻击 
+（Upd01） Your forces are under ack. 你的部队正在遭受攻击 
+（Upd02） Research complete. 研究完成 
+（Upd03） Add-on complete. 附加建筑完成 
+（UPD04） Nuclear launch detected. 监测到核打击 
+（UPD05） Abandoning auxilorary structure. 建筑被污染 
+（UPD06） Upgrade complete. 升级完成 
+（Upd07） Nuclear missile ready. 核弹完毕！ 
+
+Protess
+
+Zealot 
+
+（出场00） My life for Aiur! 我为Aiur而生! 
+（闲聊00） En Taro Adun! （神族语） 
+（闲聊01） All for the Empire! 一切为了帝国！ 
+（闲聊02） Doom to all who threaten the homeworld. 如果谁威胁到了家园，厄运 
+就会降临！ 
+（选择00） What now calls? 现在做什么？ 
+（选择01） Issah’Tu!（神族语） 
+（选择02） I long for combat! 我久盼战斗！ 
+（选择03） G’hous! （神族语） 
+（行动00） Gau’gurah! （神族语） 
+（行动01） Thus I serve! 所以我服务 
+（行动02） Honor guide me! 荣誉指引着我 
+（行动03） For Adun! 为了 Adun! 
+
+
+Dragoon 
+
+（出场00） I have returned. 我又卷土重来了！ 
+（闲聊00） Unauthorized transmission. 不合法的信号 
+（闲聊01） Incorrect protocol. 协议不对！ 
+（闲聊02） （BEEP）Drop your weapon. You have 15 seconds to comply. "嘟嘟" 
+放下武器. 你有十五秒钟时间 
+（闲聊03） 5,4,3,2,1 （fire）5,4,3,2,1 "开火" 
+（选择00） Receiving. 收到！ 
+（选择01） Awaiting instructions. 等待重建 
+（选择02） Transmit.传输信号 
+（选择03） Input command. 输入命令 
+（选择04） Glah’sos（神族语） 
+（选择05） Cah’karadahs（神族语） 
+（选择06） Make use of me. 发挥我的作用 
+（选择07） I am needed. 我是必需的 
+（行动00） Confirmed. 确认 
+（行动01） Initiating. 初始化！ 
+（行动02） Loch’tide（神族语） 
+（行动03） Meto’rah （神族语） 
+（行动04） Commencing. 开始 
+（行动05） Nagat’soon （神族语） 
+（行动06） For vengeance. 为了复仇 
+
+
+High Templar 
+
+（出场00） Hasah-hurditum-hari! （神族语） 
+（闲聊00） Your thoughts betray you. 你的思想背叛了你！ 
+（闲聊01） I see you have an appetite for destruction. 我发现你对毁灭很感兴 
+趣 
+（闲聊02） And you learn to use your illusion. 试着去使用你的幻想 
+（闲聊03） But I find your lack of control disturbing. 但我发现你没法违背命 
+令！ 
+（选择00） Your thoughts? 你的想法？ 
+（选择01） Saragh’ha! （神族语） 
+（选择02） I heed thy call. 我需要你的召唤 
+（选择03） State thy bidding. 言汝之命 
+（行动00） You think as I do. 你的想法就是我的做法 
+（行动01） It shall be done. 它应该完成了 
+（行动02） My path is set. 我的路径被设定了 
+（行动03） Ee’tahk （神族语） 
+
+
+Archon 
+
+（出场00） The merging is complete! 合成完毕！ 
+（闲聊00） It all looks so different on this side. 这样看什么都不一样了 
+（闲聊01） Break on through! 思想崩溃！ 
+（闲聊02） It’s beautiful! 太美了！ 
+（闲聊03） They should have sent a poet. 他们应该送来一位诗人 
+（选择00） We burn! 我们燃烧着！ 
+（选择01） We need focus! 我们需要目标！ 
+（选择02） Thorasoh’cahp （神族语） 
+（选择03） Power overwhelming. 力量无限！ 
+（行动00） Destroy! 毁灭！ 
+（行动01） Annihilate! 消灭！ 
+（行动02） Obliterate! 抹去！ 
+（行动03） Eradicate! 除去！ 
+
+
+Scout 
+
+（出场00） Teleport successful. 心灵运输成功！ 
+（闲聊00） Signal unstable. 信号不稳定 
+（闲聊01） Psionic Link dissipating. 心灵连接失效了？ 
+（闲聊02） Adjusting neural transmission. 调整心灵信号 
+（闲聊03） （后退） 
+（闲聊04） ...reengaged（神族语） 
+（选择00） Awaiting command. 等候命令 
+（选择01） Standing by. 待命 
+（选择02） Contact. 联系 
+（选择03） Cho’gal （神族语） 
+（行动00） Chaos混乱！ 
+（行动01） Koh’rahk（神族语） 
+（行动02） ...acknowledged明白 
+（行动03） It will be done. 马上完成 
+
+
+Arbiter 
+
+（出场00） Warp field stabilized. 时空扭曲很稳定 
+（闲聊00） We sense a soul in search of answers. 在寻找答案时，我们才能感受 
+到灵魂 
+（闲聊01） Do you seek knowledge of time travel? 你有关于时间旅行的知识吗？ 
+（闲聊02） We’ll take that as a 行动. 我们将会同意 
+（闲聊03） And now for your first lesson. Hahaha. 现在开始第一课，哈哈哈 
+（闲聊04） Do you seek knowledge of time travel? 你有关于时间旅行的知识吗？ 
+（选择00） We feel your presence. 我们感受到了你的存在 
+（选择01） Duras. 多长时间？ 
+（选择02） Gun Adun向 Adun进发 
+（选择03） We are vigilant. 我们很警惕 
+（行动00） In Khast’meen（神族语） 
+（行动01） Jepahca’zoen（神族语） 
+（行动02） Gowron. （神族语） 
+
+
+Carrier 
+
+（出场00） Carrier has arrived! 航母到位！ 
+（闲聊00） Our enemies are legion! 敌人太多了！ 
+（闲聊01） And still you procrastinate!? 你仍然在耽误时间 
+（闲聊02） Command, or you will be relieved! 发命令吧，你会放心的 
+（闲聊03） This is not an idle threat! 这不是无聊的恐吓 
+（选择00） Instructions. 指令 
+（选择01） Your command? 你的命令 
+（选择02） Loh’Klahs（神族语） 
+（选择03） Ischk’nu? （神族语） 
+（行动00） Commencing. 准备好了 
+（行动01） Kokal’tulah（神族语） 
+（行动02） Gau’ju（神族语） 
+（行动03） Affirmative. 同意 
+
+Observer 
+
+（闲聊00） I sense a soul in search of answers. 在寻找答案时我感受到了灵魂 
+（闲聊01） It sounds like...a huge, gargantuan, swollen, bloated mushroom! 
+它听起来像一个巨大的、庞大的、浮肿的、膨胀的蘑菇 
+（闲聊02） One small step for man, one giant...(static) STOP POKING ME!!! 对 
+于一个人是一小步，对整个人类是一大….别扎我！！！ 
+（wi闲聊03） （电影） 
+（wi闲聊04） Warcraft zwei, jetzt als Exklusivedition mit dem Expansion 
+Set...4 Boostern und Zauberlehrbuch （德语） 
+
+
+Dark Templar 
+
+（出场00） Adun Toridas! （神族语） 
+（闲聊00） Your taunts are inadvised, Templar. 没法赞同你的污辱，祭司 
+（闲聊01） Do not provoke me to violence. 你想让我暴动吗？？？ 
+（闲聊02） You can no more evade my wrath... 你没法逃避我的愤怒！ 
+（闲聊03） ...Than you could your own shadow. 与你相比，我像你的影子一样无形 
+（选择00） 行动? 是？ 
+（选择01） Zerashk gulida! （神族语） 
+（选择02） I’m waiting. 我正在等待 
+（选择03） Neraz Gulio. （神族语） 
+（行动00） For Aiur. 为了Aiur. 
+（行动01） Ner’mah! （神族语） 
+（行动02） So be it. 那么就成为它吧 
+（行动03） Very well. 非常棒 
+
+Corsair 
+
+（出场00） It is a good day to die! 今天是去死的好日子 
+（闲聊00） Look at all the pretty lights! 看看那些漂亮的灯 
+（闲聊01） I wonder what this button does. 我想知道这个按钮是干吗的 
+（闲聊02） （BEEP） I think this was a BIG mistake. 我想这是一个大错误 
+（闲聊03） （唱歌1） 
+（闲聊04） （唱歌2） 
+（闲聊05） Zefram Cochrane, is that you? Zefram Cochrane,是你吗？ 
+（闲聊06） What did you do to your hair? 你怎么弄你的头发？？？ 
+（选择00） Ready for battle! 准备战斗 
+（选择01） May I be of service? 我需要服役吗？ 
+（选择02） I stand ready. 准备完毕 
+（选择03） Let us ack. 我们一起攻击吧 
+（行动00） Excellent! 非常棒 
+（行动01） Adun Toridas! （神族语） 
+（行动02） Ah, at last! 啊，终于 
+（行动03） I thought you’d see it my way. 我想你一定知道它在我的路上。 
+
+Dark Archon 
+
+（出场00） We are as one! 我们如同一人 
+（闲聊00） Must consume. 必须毁灭. 
+（闲聊01） Or oblivion will take us. 否则我们将被遗忘 
+（闲聊02） Adun, save me. Adun, 救救我！ 
+（闲聊03） Darkness overpowering! 黑暗不可抗拒！ 
+（选择00） Must have energy! 必须有力量 
+（选择01） We hear you. 我们听见你啦 
+（选择02） Thoughts in chaos! 在混乱中思考 
+（选择03） Must feed! 必须喂食 
+（行动00） We’ll go. 我们走 
+（行动01） Oblivion awaits! 等待赦免 
+（行动02） We move! 我们移动 
+（行动03） （呻吟） 
+
+基地 
+
+（Err00） You’ve not enough minerals. 你没有足够的矿石了 
+（Err01） You require more vespene gas. 你需要更多瓦斯 
+（Err02） You must construct additional pylons. 你必须建更多的能源塔 
+（Err06） Not enough energy. 能量不足 
+（Upd00） We are under ack! 正在遭受攻击 
+（Upd01） Your warriors have engaged the enemy. 你的战士遇到了敌人 
+（Upd02） Research complete. 研究完成 
+（Upd04） Nuclear launch detected. 监测到核打击 
+（Upd06） Upgrade complete. 升级完成 
+
+
+
+Zerg
+
+
+生化自爆人 Infested Terran 
+
+（出场00） Live for the Swarm! 为群体而生 
+（闲聊00） I am wretched. 我是肮脏的 
+（闲聊01） But I am strong! 但我很强壮！ 
+（闲聊02） I am the future. 我就是未来 
+（闲聊03） I am Zerg! 我属于虫族 
+（选择00） Ready to kill! 准备好杀戮 
+（选择01） Preed to die! 准备死啦 
+（选择02） Let me serve! 让我牺牲 
+（选择03） Sacrifice me! 用我献祭吧 
+（行动00） 行动! 是 
+（行动01） Immediately. 马上 
+（行动02） Gladly! 非常高兴 
+（行动03） For the Overmind! 为了 Overmind! 
+
+
+基地 
+（Err00） We require more minerals. 我们需要更多的矿 
+（Err01） We require more vespene gas. 我们需要更多瓦斯 
+（Err02） Spawn more overlords. 孵化更多宿主 
+（Err06） Not enough energy. 没有能量了 
+（Upd00） The hive cluster is under ack. 蜂房遭受攻击 
+（Upd01） Our forces are under ack. 我们的部队遭受攻击 
+（Upd02） Evolution complete. 进化完成 
+（Upd04） Nuclear launch detected. 监测到核打击
