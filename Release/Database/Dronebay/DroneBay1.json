@@ -8,7 +8,7 @@
   "DefenseMultiplier": 1.0,
   "SpeedMultiplier": 1.0,
   "ImprovedAi": true,
-  "Capacity": 8,
+  "Capacity": 32,
   "ActivationType": 2,
   "LaunchSound": "launch_08",
   "LaunchEffectPrefab": "OrbAdditive",
