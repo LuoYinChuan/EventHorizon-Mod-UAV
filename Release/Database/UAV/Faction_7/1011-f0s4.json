@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1011,
+  "Name": "犀牛T1",
+  "DisplayCategory": 5,
+  "ComponentStatsId": 2,
+  "Faction": 7,
+  "Level": 580,
+  "Icon": "犀牛.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 10,
+  "DroneId": 38,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}

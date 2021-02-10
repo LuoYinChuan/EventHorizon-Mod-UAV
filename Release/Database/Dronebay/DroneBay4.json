@@ -1,8 +1,6 @@
 {
   "ItemType": 5,
   "Id": 4,
-  "EnergyConsumption": 1.0,
-  "PassiveEnergyConsumption": 6.0,
   "Range": 80.0,
   "DamageMultiplier": 1.0,
   "DefenseMultiplier": 1.0,

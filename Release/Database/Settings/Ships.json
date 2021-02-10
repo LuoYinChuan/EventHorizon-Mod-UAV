@@ -7,6 +7,7 @@
   "BaseEnergyPoints": 1.0,
   "EnergyRechargeCooldown": 1.0,
   "ShieldRechargeCooldown": 4.0,
+  "BaseDroneReconstructionSpeed": 1.0,
   "MaxVelocity": 30.0,
   "MaxTurnRate": 30.0
 }

@@ -1,0 +1,9 @@
+{
+  "ItemType": 7,
+  "Id": 101,
+  "Name": "无人机舰载平台S",
+  "ModelImage": "satellite1",
+  "ModelScale": 0.3,
+  "SizeClass": 1,
+  "Layout": "2222222222222222"
+}

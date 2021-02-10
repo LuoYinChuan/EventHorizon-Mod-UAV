@@ -8,64 +8,33 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "$TUTORIAL_Start",
+      "Message": "欢迎游玩UAV模组\n模组制作与参与人员：洛颍川\n模组状态：更新中\n模组难度：中\n模组版本：0.3.1\n问题反馈：如遇bug请加作者QQ(2352463068)或加群(视界线萌新交流聚集区)(231643666)进行反馈\n祝您玩的愉快\n-----------------------------------------------\n作者留言：这次模组内容更新完整可能要很长时间，因为我又拿新的数据库重新做了一遍（我看不懂我原来写的文件了（懒得看）【手动滑稽】）",
       "Character": 3,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "$ACTION_Continue"
-        }
-      ]
-    },
-    {
-      "Id": 2,
-      "Type": 10,
-      "Message": "$TUTORIAL_Info1",
-      "Character": 3,
-      "Actions": [
+          "ButtonText": "开始旅程"
+        },
         {
           "TargetNode": 3,
-          "ButtonText": "$ACTION_Continue"
+          "ButtonText": "更新状态"
         }
       ]
     },
     {
       "Id": 3,
       "Type": 10,
-      "Message": "$TUTORIAL_Training",
+      "Message": "文尼：无人机化\n祖巴拉：无人机化",
       "Character": 3,
       "Actions": [
         {
-          "TargetNode": 4,
-          "ButtonText": "$TUTORIAL_ACTION_Training"
-        },
-        {
-          "TargetNode": 5,
-          "ButtonText": "$TUTORIAL_ACTION_Skip"
+          "TargetNode": 2,
+          "ButtonText": "开始旅程"
         }
       ]
     },
     {
-      "Id": 4,
-      "Type": 20,
-      "DefaultTransition": 5,
-      "FailureTransition": 3,
-      "Enemy": 1
-    },
-    {
-      "Id": 5,
-      "Type": 10,
-      "Message": "$TUTORIAL_End",
-      "Character": 3,
-      "Actions": [
-        {
-          "TargetNode": 6,
-          "ButtonText": "$ACTION_Continue"
-        }
-      ]
-    },
-    {
-      "Id": 6,
+      "Id": 2,
       "Type": 40
     }
   ]

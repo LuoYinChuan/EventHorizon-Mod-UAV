@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1016,
+  "Name": "游骑兵T1",
+  "DisplayCategory": 5,
+  "ComponentStatsId": 2,
+  "Faction": 1,
+  "Level": 100,
+  "Icon": "游骑兵.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 10,
+  "DroneId": 39,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    1,
+    2
+  ]
+}
